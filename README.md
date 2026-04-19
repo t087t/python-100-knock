@@ -1,8 +1,5 @@
 ## Python実践データ分析100本ノック 学習用リポジトリ
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](#)
-[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE.txt)
-
 このリポジトリは、秀和システム刊『Python実践データ分析100本ノック』の演習を実践し、学習内容を記録するためのものである。
 
 **Python実践データ分析100本ノック**
@@ -19,9 +16,7 @@ ISBN-13: 978-4798058757
 
 ## リンク
 
-- [秀和システム 公式ページ](https://www.shuwasystem.co.jp/book/9784798058757.html)
-  - [サンプルコード](https://www.shuwasystem.co.jp/support/7980html/5875.html)
-- [Amazon 販売ページ](https://amzn.asia/d/0hAshnxX)
+- [秀和システム 公式サンプルコード](https://www.shuwasystem.co.jp/support/7980html/5875.html)
 
 ---
 
