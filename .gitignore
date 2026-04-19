@@ -1,0 +1,12 @@
+*answer.ipynb
+*.csv
+*.xml
+*.jpg
+img/*
+*/jpg
+mov/*
+*.avi
+snapshot/*
+*.dat
+*.txt
+*.xlsx
