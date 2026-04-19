@@ -1,1 +1,88 @@
-# python-100-knock
+## Python実践データ分析100本ノック 学習用リポジトリ
+
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](#)
+[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE.txt)
+
+このリポジトリは、秀和システム刊『Python実践データ分析100本ノック』の演習を実践し、学習内容を記録するためのものである。
+
+**Python実践データ分析100本ノック**
+
+発行：2019年09月（第1版） / 2021年02月（第2版）
+著者：下山 輝昌、松田 雄馬、三木 孝行
+出版社：秀和システム
+ページ数：296ページ
+
+ISBN-10: 4798058753
+ISBN-13: 978-4798058757
+
+---
+
+## リンク
+
+- [秀和システム 公式ページ](https://www.shuwasystem.co.jp/book/9784798058757.html)
+  - [サンプルコード](https://www.shuwasystem.co.jp/support/7980html/5875.html)
+- [Amazon 販売ページ](https://amzn.asia/d/0hAshnxX)
+
+---
+
+## 目次と各章のノートブック
+
+各章のディレクトリには、演習を解いた Jupyter Notebook を格納している。
+
+1. **第1章：ウェブからの注文数を分析する10本** [[open dir](ch01)]
+    - データの読み込み、加工、統計量の把握
+2. **第2章：小売店のデータでデータ加工を行う10本** [[open dir](ch02)]
+    - 揺れのあるデータのクレンジング、名寄せ
+3. **第3章：顧客の全体像を分析する10本** [[open dir](ch03)]
+    - 顧客データの可視化、傾向分析
+4. **第4章：顧客の行動を予測する10本** [[open dir](ch04)]
+    - 特徴量エンジニアリング、時系列データの扱い
+5. **第5章：顧客の退会を予測する10本** [[open dir](ch05)]
+    - 機械学習モデル（決定木）による予測と解釈
+6. **第6章：物流の最適ルートをコンサルティングする10本** [[open dir](ch06)]
+    - ネットワーク可視化、最適化問題の基礎
+7. **第7章：ロジスティクスネットワークの最適設計を行う10本** [[open dir](ch07)]
+    - 線形計画法、輸送コストの最適化
+8. **第8章：数値シミュレーションで消費者行動を予測する10本** [[open dir](ch08)]
+    - ネットワーク分析、口コミ伝播のシミュレーション
+9. **第9章：潜在的顧客を把握するための画像認識をする10本** [[open dir](ch09)]
+    - 画像認識（OpenCV）を利用した人流計測・可視化
+10. **第10章：アンケート分析を行うための自然言語処理をする10本** [[open dir](ch10)]
+    - 自然言語処理（形態素解析）
+
+---
+
+### 動作確認済み環境・ライブラリ
+
+| ツール / ライブラリ | バージョン |
+| :--- | :--- |
+| **Anaconda** | 1.9.7 |
+| **Jupyter Notebook** | 6.0.0 |
+| **Python** | 3.7.4 |
+| **NumPy** | 1.16.4 |
+| **Pandas** | 0.24.2 |
+| **Matplotlib** | 2.1.1 |
+| **scikit-learn** | 0.19.1 |
+| **NetworkX** | 2.0 |
+| **PuLP** | 1.6.10 |
+| **ortoolpy** | 0.2.23 |
+| **OpenCV (opencv-python)** | 4.0.0.21 |
+| **dlib** | 19.10.0 |
+| **MeCab-python3** | 0.7 |
+
+---
+
+## 引用
+
+下山 輝昌, 松田 雄馬, 三木 孝行. *Python実践データ分析100本ノック*. 秀和システム, 2019.
+
+```bibtex
+@book{Shimoyama2019,
+  address = {Tokyo, JP},
+  author = {Shimoyama, Terumasa and Matsuda, Yuma and Miki, Takayuki},
+  publisher = {Shuwa System},
+  title = {{Python Practice 100-Knock Data Analysis}},
+  year = {2019},
+  isbn = {978-4798058757}
+}
+```
